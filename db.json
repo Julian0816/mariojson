@@ -1,0 +1,58 @@
+{
+  "characters" : [
+    {
+        "name": "Mario",
+        "year_released": "1981",
+        "debut_game": "1", 
+        "image_url": "https://mario-api.s3.amazonaws.com/mario.gif"
+      },
+      {
+        "name": "Luigi",
+        "year_released": "1983", 
+        "debut_game": "1", 
+        "image_url": "https://mario-api.s3.amazonaws.com/luigi.jpg"
+      },
+      {
+        "name": "Princess Toadstool (Peach)",
+        "year_released": "1985",
+        "debut_game": "2",
+        "image_url": "https://mario-api.s3.amazonaws.com/princesstoadstool.png"
+      },
+      {
+        "name": "Goomba",
+        "year_released": "1985", 
+        "debut_game": "2",
+        "image_url": "https://mario-api.s3.amazonaws.com/goomba.png"
+      },
+      {
+        "name": "Toad",
+        "year_released": "1985",
+        "debut_game": "2", 
+        "image_url": "https://mario-api.s3.us-east-2.amazonaws.com/toad.png"
+      },
+      {
+        "name": "Bowser (King Koopa)",
+        "year_released": "1985", 
+        "debut_game": "2", 
+        "image_url": "https://mario-api.s3.us-east-2.amazonaws.com/bowser.png"
+      },
+      {
+        "name": "Bullet Bill",
+        "year_released": "1985", 
+        "debut_game": "2", 
+        "image_url": "https://mario-api.s3.us-east-2.amazonaws.com/bulletbill.png"
+      },
+      {
+        "name": "Yoshi",
+        "year_released": "1991",
+        "debut_game": "34",
+        "image_url": "https://mario-api.s3.us-east-2.amazonaws.com/yoshi.png"
+      },
+      {
+        "name": "Birdo",
+        "year_released": "1988",
+        "debut_game": "3", 
+        "image_url": "https://mario-api.s3.amazonaws.com/birdo.png"
+      }
+  ]
+}
